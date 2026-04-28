@@ -1,0 +1,21 @@
+label,season,soil,tips
+rice,Kharif,Clayey soil,Requires high rainfall
+maize,Kharif/Rabi,Loamy soil,Needs moderate rainfall
+wheat,Rabi,Loamy soil,Needs cool climate
+cotton,Kharif,Black soil,Needs warm weather
+sugarcane,Annual,Loamy soil,High water requirement
+banana,Year-round,Loamy soil,Needs humidity
+mango,Summer,Loamy soil,Needs warm climate
+apple,Winter,Loamy soil,Needs cold climate
+orange,Winter,Loamy soil,Moderate irrigation
+grapes,Winter,Sandy soil,Needs pruning
+watermelon,Summer,Sandy loam,Needs sunlight
+papaya,Year-round,Well-drained soil,Avoid waterlogging
+coffee,Winter,Loamy soil,Needs shade
+coconut,Annual,Sandy soil,Coastal climate
+chickpea,Rabi,Sandy loam,Low rainfall
+lentil,Rabi,Loamy soil,Cool climate
+jute,Kharif,Alluvial soil,High humidity
+blackgram,Kharif,Clay loam,Warm climate
+mungbean,Kharif,Loamy soil,Short duration
+pigeonpeas,Kharif,Loamy soil,Drought tolerant
